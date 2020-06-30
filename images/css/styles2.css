@@ -1,0 +1,30 @@
+.top-container{
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  position:absolute;
+  left:200px;
+  top:200px;
+}
+.middle-container{
+  background-color: blue;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top:100px;
+  left:100px;
+}
+
+.bottom-container{
+  background-color: yellow;
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left:0;
+}
+div{
+  display: inline-block;
+}
+body{
+  margin: 0;
+}
